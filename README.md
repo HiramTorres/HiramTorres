@@ -1,5 +1,5 @@
 ## Hola!!  Soy [Hiram Torres][website]  👋😎 
- [![Twitter Follow](https://img.shields.io/twitter/follow/HiramTorresE?label=Hiram%20Torres&style=social)](https://twitter.com/HiramTorresE) ![Github Follow](https://img.shields.io/github/followers/HiramTorres?style=social) ![LinkedIn](https://img.shields.io/twitter/url?label=Conectar&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhiram-torres-espinosa-2572b6205%2F) ![Instagram](https://img.shields.io/twitter/url?label=Hiram%20Torres%20&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fhiramtorres13%2F%3Fhl%3Des-la)
+ [![Twitter Follow](https://img.shields.io/twitter/follow/HiramTorresE?label=Hiram%20Torres&style=social)](https://twitter.com/HiramTorresE) ![Github Follow](https://img.shields.io/github/followers/HiramTorres?style=social)
 
 
 
