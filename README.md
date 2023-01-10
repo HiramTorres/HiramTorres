@@ -1,7 +1,11 @@
-## Hola!!  Soy [Hiram Torres][website]  👋😎 
+## Hello!!  Soy [Hiram Torres][website]  🖖😎 
  [![Twitter Follow](https://img.shields.io/twitter/follow/HiramTorresE?label=Hiram%20Torres&style=social)](https://twitter.com/HiramTorresE) ![Github Follow](https://img.shields.io/github/followers/HiramTorres?style=social)
 
 
+--- 
+
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width = "200" />
 
 
 **Soy estudiante de ingeniería, me gusta aprender constantemente de nuevas tecnologías🚀.  :pencil: Mis repositorios son principalmente de proyectos escolares y personales 🤓, hechos en diferentes lenguajes que estoy aprendiendo.** :pen: 💻 🤯
