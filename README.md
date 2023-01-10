@@ -5,7 +5,7 @@
 --- 
 ![img](/LinkedIn.png)
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width = "400" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width = "350" />
 
 
 **Soy estudiante de ingeniería, me gusta aprender constantemente de nuevas tecnologías🚀.  :pencil: Mis repositorios son principalmente de proyectos escolares y personales 🤓, hechos en diferentes lenguajes que estoy aprendiendo.** :pen: 💻 🤯
@@ -21,6 +21,10 @@
 - <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="drawing" width="20"/> **Git**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="drawing" width="20"/> **C++**
 - <img src="http://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" width="20"/> **HTML**
+
+
+
+
 
 _**Echa un ojo**_ 👀
 
