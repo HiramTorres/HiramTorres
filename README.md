@@ -24,7 +24,7 @@
 
 _**Echa un ojo**_ 👀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiramTorres)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiramTorres&show_icons=true&theme=dark)
 
 <!--Links-->
 [website]: https://hiramtorres.site/
