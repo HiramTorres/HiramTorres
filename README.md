@@ -23,6 +23,8 @@
 - <img src="http://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" width="20"/> **HTML**
 
 _**Echa un ojo**_ 👀
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiramTorres)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--Links-->
 [website]: https://hiramtorres.site/
-
