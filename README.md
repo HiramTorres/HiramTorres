@@ -9,12 +9,12 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width = "350" />
 
 
-**Soy estudiante de ingeniería, me gusta aprender constantemente de nuevas tecnologías🚀.  :pencil: Mis repositorios son principalmente de proyectos escolares y personales 🤓, hechos en diferentes lenguajes que estoy aprendiendo.** :pen: 💻 🤯
+### **Soy estudiante de ingeniería, me gusta aprender constantemente de nuevas tecnologías🚀.  :pencil: Mis repositorios son principalmente de proyectos escolares y personales 🤓, hechos en diferentes lenguajes que estoy aprendiendo.** :pen: 💻 🤯
 
 
 
 
-**Algunas de las tecnologías en mis repositorios son:**
+### **Algunas de las tecnologías en mis repositorios son:**
 
 
 
